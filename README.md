@@ -11,9 +11,7 @@ Motives because I must.
 
 I must becuase... reasons.
 
-
-
-I'm being deliberatly non-specific because I don't want to tell you.
+...I'm being deliberatly non-specific because I don't want to tell you.
 
 I don't want to tell you because...
 
