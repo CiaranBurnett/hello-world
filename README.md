@@ -1,5 +1,5 @@
 # hello-world
-<b>A repository created not by choice, but obligation.</b>
+<h1><b>A repository created not by choice, but obligation.</b></h1>
 
 I like to do things.
 
@@ -15,4 +15,4 @@ I must because... reasons.<br><br>
 
 I don't want to tell you because...<br><br>
 
-<h3><b>REASONS!!!!!</b></h3>
+<h2><b>REASONS!!!!!</b></h2>
