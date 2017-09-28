@@ -1,5 +1,5 @@
 # hello-world
-<h1><b>A repository created not by choice, but obligation.</b></h1>
+<h2><b>A repository created not by choice, but obligation.</b></h2>
 
 I like to do things.
 
